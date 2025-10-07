@@ -8,8 +8,8 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 import logging
 
 # Bot token and chat ID
-BOT_TOKEN = "7116280492:AAE-sZS17F1kaI_IIg8BV2wst7QI8s4T7xk"
-CHAT_ID = "6722885929"
+BOT_TOKEN = "your bot token"
+CHAT_ID = "your chat id"
 
 # User agents for stealth
 USER_AGENTS = [
